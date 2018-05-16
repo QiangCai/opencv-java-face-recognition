@@ -1,5 +1,5 @@
 # opencv-java-face-recognition
-
+```
 0. install opencv with opencv-contrib
 
   version: 3.4.1
@@ -21,3 +21,4 @@
   face.recognize.Recognition
 
   VM: -Djava.library.path=<opencv path>/build/lib
+  ```
